@@ -29,8 +29,8 @@ export default function Footer() {
 
         <div className="footer-section">
           <h2>Get in touch</h2>
-          <a href="mailto:Eyuking77@gmail.com">Eyuking77@gmail.com</a>
-          <a href="tel:+25197651880">+251 976 518 80</a>
+          <a href="mailto:Eyuking77@gmail.com">eyuonlinemarket1@gmail.com</a>
+          <a href="tel:+25197651880">+2519 176 518 80</a>
           <a href="https://t.me/Eyuonlinemarket1" target="_blank" rel="noopener noreferrer">
             Telegram: @Eyuonlinemarket1
           </a>
